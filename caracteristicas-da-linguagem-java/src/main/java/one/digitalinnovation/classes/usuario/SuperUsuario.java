@@ -1,7 +1,6 @@
 package one.digitalinnovation.classes.usuario;
 
 public class SuperUsuario {
-
     private String login;
     private String senha;
     String nome;
@@ -12,12 +11,10 @@ public class SuperUsuario {
     }
 
     public String getLogin() {
-
         return login;
     }
 
     protected String getSenha() {
-
         return senha;
     }
 
