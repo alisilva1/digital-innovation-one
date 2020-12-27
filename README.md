@@ -19,5 +19,5 @@ If this is not the case, right click your root source directory -> Mark As -> So
 
 //Erro de classe não encontrado
 
-+Criar pasta Target nas pastas do Projeto (com isso o Intellij vai criar um monte de pastas para teste e vai compilar normalmente)
-+Depois basta criar uma aplicação nova e selecionar o objeto que deseja executar.
++ Criar pasta Target nas pastas do Projeto (com isso o Intellij vai criar um monte de pastas para teste e vai compilar normalmente).
++ Depois basta criar uma aplicação nova e selecionar o objeto que deseja executar.
