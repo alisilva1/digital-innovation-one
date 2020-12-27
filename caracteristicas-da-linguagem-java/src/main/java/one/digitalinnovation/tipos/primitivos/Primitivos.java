@@ -5,7 +5,8 @@ public class Primitivos {
     public static void main(String[] args) {
         //INTEIROS
 
-        //byte nullByte = null;  //Um tipo primitivo não pode ser nulo
+        //byte nullByte = null;
+        //Um tipo primitivo não pode ser nulo, tem valores default e precisam ser inicializados.
 
         byte b;             //8 bits
         byte b1 = 127;

@@ -18,6 +18,8 @@ public class Fiesta implements Carro, Veiculo {
     }
 
     @Override
+    //Por ter 2 interfaces com o mesmo metodo. Tem que criar os 2
+    //
     public void ligar() {
         //codigo
 

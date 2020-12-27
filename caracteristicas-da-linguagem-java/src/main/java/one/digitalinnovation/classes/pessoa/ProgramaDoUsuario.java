@@ -11,6 +11,8 @@ public class ProgramaDoUsuario {
 
         //batman.getSenha();    //ERRO
 
+
+        /* Default também não é acessado por outro pacote */
         //String nomeDoCliente = batman.nome; //ERRO
     }
 

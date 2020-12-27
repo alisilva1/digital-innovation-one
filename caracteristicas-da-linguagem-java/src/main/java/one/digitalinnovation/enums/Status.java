@@ -1,5 +1,14 @@
 package one.digitalinnovation.enums;
 
+/*
+Enums
+É um dicionários de dados imutável;
+Não é permitido novas instâncias;
+Construtor é sempre declarado como private;
+Por ser constante e imutável é ideal declarar em UpperCase;
+
+ */
+
 public enum Status {
     OPEN(13, "Aberto"),
     CLOSE(02, "Fechado");

@@ -9,6 +9,9 @@ public class ProgramaDoCliente {
 
         cliente.getPeso();
 
+
+        /* Apesar da Herança por estar em pacote diferente o Protected não irá funcionar */
+
         //System.out.println(cliente.relatorio());
     }
 

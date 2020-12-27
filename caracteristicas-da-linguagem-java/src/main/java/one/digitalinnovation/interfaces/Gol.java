@@ -1,5 +1,6 @@
 package one.digitalinnovation.interfaces;
 
+//Meu gol é um carro ele implementa e vira aquele objeto
 public class Gol implements Carro {
 
     @Override

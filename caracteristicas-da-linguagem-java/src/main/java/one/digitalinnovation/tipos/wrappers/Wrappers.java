@@ -4,7 +4,7 @@ public class Wrappers {
 
     public static void main(String[] args) {
         //Autoboxing
-
+        //Wrapper você pode iniciar como Nulo já que é um Objeto e são diferenciados pela letra inicial Maiscula
         Byte b = 127;   //byte
         Byte b2 = -128;
         Byte nullByte = null;

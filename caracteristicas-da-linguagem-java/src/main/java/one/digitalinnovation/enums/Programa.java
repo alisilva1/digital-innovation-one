@@ -3,6 +3,7 @@ package one.digitalinnovation.enums;
 public class Programa {
 
     public static void main(String[] args) {
+        //Por ser enum não pode ser instanciado em novo objeto
         //final TipoVeiculo tipoVeiculo = new TipoVeiculo();
 
         System.out.println(TipoVeiculo.TERRESTRE);
